@@ -1,3 +1,3 @@
-This is a brand new file
+This is no longer brand new. It's already been pushed!
 
-I will update this in another push, and you have to revert it.
+Try reverting it to when it was brand new
